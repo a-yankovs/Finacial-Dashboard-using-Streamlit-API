@@ -33,6 +33,15 @@ When you navigate to the Crypto Dashboard page, you are greeted by a list of the
 
 <img width="800" alt="Screenshot 2025-01-22 at 21 55 50" src="https://github.com/user-attachments/assets/e167a6a7-b69f-49db-9897-350cd424459c" />
 
+The cryptocurrencies in the dashboard that have a greater change in price greater than 5 U$D in 24H are highlighted in green. 
+
+Finally, the ETF dashboard displays the top 100 exchange-traded funds: 
+
+<img width="800" alt="Screenshot 2025-02-04 at 23 16 28" src="https://github.com/user-attachments/assets/66a4dec9-efc1-4d01-82ae-648a2be0d1db" />
+
+
+
+
 
 
 
