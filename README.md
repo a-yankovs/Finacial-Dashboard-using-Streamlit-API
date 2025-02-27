@@ -1,10 +1,15 @@
 This is a financial dashboard for a number of different assets: cryptocurrencies, commodities, an ETFs, built using: 
 
 Language: Python
+
 Web Framework: Streamlit 
+
 Data Processing and Analysis: Pandas, Numpy
+
 Financial Data APIs: Yahoo Finance(yfinance), CoinGecko API, Requests
+
 Data Visualisation: Matplotlib
+
 System/OS Operations: OS module
 
 To load the site, open the repo using an IDE and run. 
